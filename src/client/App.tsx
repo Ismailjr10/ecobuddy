@@ -1,4 +1,4 @@
-import './App.css';
+import '../App.css';
 import { modelenceQuery, useQuery } from '@modelence/react-query';
 import EcoForm from './components/EcoForm';
 
